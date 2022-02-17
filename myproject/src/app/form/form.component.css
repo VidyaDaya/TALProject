@@ -1,0 +1,16 @@
+#insurancepremiumform {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+input.ng-touched.n-invalid{
+    border-block-color: red;
+}
+
+.main-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
